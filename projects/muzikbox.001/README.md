@@ -4,7 +4,7 @@ Commission prototype.
 
 ## Dimensions
 
-*Box*: 154mm x 127mm x 45mm
+*Box*: `154mm x 127mm x 45mm`
 
 > Rough conversions to imperial
 > ```
