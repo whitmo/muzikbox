@@ -6,9 +6,8 @@ Commission prototype.
 
 *Box*: 154mm x 127mm x 45mm
 
-Rough conversions to imperial
-
-```
+> Rough conversions to imperial
+> ```
 153mm   == 6in
 127mm   == 5in
 51mm    == 2in
