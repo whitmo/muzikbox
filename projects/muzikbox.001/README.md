@@ -14,3 +14,9 @@ Commission prototype.
 > 19.05mm == 3/4in
 > 3.175mm == 1/8in
 > ```
+
+- 50 units * top + bottom == 100
+- top/bottom: `154*127*100 == 1955800mm^2` (roughly 2m^2)
+- standard ply sheet: `4x8ft == 32ft^2 == 2.9729m^2` (roughly 3m^2)
+
+
