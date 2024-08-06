@@ -8,9 +8,9 @@ Commission prototype.
 
 > Rough conversions to imperial
 > ```
-153mm   == 6in
-127mm   == 5in
-51mm    == 2in
-19.05mm == 3/4in
-3.175mm == 1/8in
-```
+> 153mm   == 6in
+> 127mm   == 5in
+> 51mm    == 2in
+> 19.05mm == 3/4in
+> 3.175mm == 1/8in
+> ```
