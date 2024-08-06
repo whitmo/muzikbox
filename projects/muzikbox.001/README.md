@@ -25,3 +25,5 @@ Material
 - Birdseye or flametop maple(?)
 - Plywood: Baltic birch, bamboo, ??
 
+# Resources
+https://b3d.interplanety.org/en/how-to-rotate-objects-through-the-blender-python-api/
